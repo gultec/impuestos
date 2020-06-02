@@ -3,13 +3,13 @@
 ## Introducción
 
 Esta es una propuesta de un esquema fiscal que en teoría busca:
-- Cobrar más impuestos a quienes tienen mayores utilidades (en base a flujo de efectivo, no en base a contabilidad).
-- Redistribuir esos impuestos de los que tienen mayores utilidades a los que tienen menores utilidades
-- Cobrar más impuestos a aquellos que tienen más riqueza que el resto
-- Proporcionar un ingreso básico a toda la población
-- Desincentivar el uso de efectivo
-- Ser lo más sencillo posible para facilitar la determinación y pago de impuestos.
-- Evitar situaciones que pudieran ser aprovechadas por individuos para hacer estrategias que disminuyan el pago de impuestos.
+* Cobrar más impuestos a quienes tienen mayores utilidades (en base a flujo de efectivo, no en base a contabilidad).
+* Redistribuir esos impuestos de los que tienen mayores utilidades a los que tienen menores utilidades
+* Cobrar más impuestos a aquellos que tienen más riqueza que el resto
+* Proporcionar un ingreso básico a toda la población
+* Desincentivar el uso de efectivo
+* Ser lo más sencillo posible para facilitar la determinación y pago de impuestos.
+* Evitar situaciones que pudieran ser aprovechadas por individuos para hacer estrategias que disminuyan el pago de impuestos.
 
 Debe ser considerado como una idea para iniciar una discusión y buscar mejores solucioines; no como una propuesta completa, terminada e inamovible.
 
@@ -42,29 +42,29 @@ Al realizar un pago el banco automáticamente le retendrá este IVA al que recib
 Todos los precios anunciados al público deberan incluir ya el IVA correspondiente.
 
 Por ejemplo:
-- Supongamos una tasa de IVA del 10%
-- Persona A le vende un producto por 100 pesos a Persona B.
-- La Persona B hace un pago por 100 pesos a la Persona A.
-- Persona A recibe 90 pesos, el banco retiene los 10 pesos y los paga al SAT.
+* Supongamos una tasa de IVA del 10%
+* Persona A le vende un producto por 100 pesos a Persona B.
+* La Persona B hace un pago por 100 pesos a la Persona A.
+* Persona A recibe 90 pesos, el banco retiene los 10 pesos y los paga al SAT.
 
 Esto evita que la gente tenga que calcular y pagar impuestos, ya que el banco los recauda automáticamente con cada transacción.
 
 
 Transacciones que no pagan IVA
-- Transferencias entre cuentas propiedad de la misma persona
-- Transferencias entre familiares en línea recta ascendente o descendente.
-- Transferencias entre hermanos.
-- Transferencias entre cónyuges.
-- Aportaciones de capital a Personas Morales
-- Devoluciones de capital a accionistas
-- Pago de dividendos
-- Préstamos
-- Capital repagado por préstamos otorgados (los intereses sí pagan IVA)
+* Transferencias entre cuentas propiedad de la misma persona
+* Transferencias entre familiares en línea recta ascendente o descendente.
+* Transferencias entre hermanos.
+* Transferencias entre cónyuges.
+* Aportaciones de capital a Personas Morales
+* Devoluciones de capital a accionistas
+* Pago de dividendos
+* Préstamos
+* Capital repagado por préstamos otorgados (los intereses sí pagan IVA)
 
 
 ## Cálculo del ISR
-- Todos los cobros suman.
-- Todos los pagos restan.
+* Todos los cobros suman.
+* Todos los pagos restan.
 
 La suma de todos los cobros menos los pagos determina tu base para ISR.
 Existe una tasa de ISR y todos pagan el resultado de multiplicar la base de ISR por esa tasa.
@@ -118,7 +118,7 @@ El valor total de las cuentas bancarias incluye la suma de los valores que esté
 
 ## Consideraciones finales
 Hay muchos escenarios y casos que no funcionarían en la realidad actual, habría que ir evaluando y buscando soluciones para cada uno, algunos que se me ocurren:
-- Este sistema requiere que todos tengan acceso a un dispositivo con internet para realizar sus pagos. En una implementación real habría que buscar esquemas de transición para hacerle llegar los recursos, realizar transacciones y recaudar impuestos en lugares donde no se cuenta con internet.
+* Este sistema requiere que todos tengan acceso a un dispositivo con internet para realizar sus pagos. En una implementación real habría que buscar esquemas de transición para hacerle llegar los recursos, realizar transacciones y recaudar impuestos en lugares donde no se cuenta con internet.
 Probablemente esto se seguiría realizando mediante el uso de efectivo y los reportes manuales de cada persona, y el gobierno tendría que buscar la manera de poco a poco hacer llegar el internet a todos los rincones del país (incluso a zonas donde no es rentable).
-- No especifica cómo se pagan impuestos en transacciones con personas de otros países y en otras monedas.
-- No provee un mecanismo para poner impuestos especiales para desincentivar el consumo de ciertos productos (tabaco, alcohol, alimentos y bebidas con alto contenido calórico, etc).
+* No especifica cómo se pagan impuestos en transacciones con personas de otros países y en otras monedas.
+* No provee un mecanismo para poner impuestos especiales para desincentivar el consumo de ciertos productos (tabaco, alcohol, alimentos y bebidas con alto contenido calórico, etc).
