@@ -11,14 +11,6 @@ Esta es una propuesta de un esquema fiscal que en teoría busca:
 - Ser lo más sencillo posible para facilitar la determinación y pago de impuestos.
 - Evitar situaciones que pudieran ser aprovechadas por individuos para hacer estrategias que disminuyan el pago de impuestos.
 
-
-Hay muchos escenarios y casos que no funcionarían en la realidad actual, habría que ir evaluando y buscando soluciones para cada uno, algunos que se me ocurren:
-- Este sistema requiere que todos tengan acceso a un dispositivo con internet para realizar sus pagos. En una implementación real habría que buscar esquemas de transición para hacerle llegar los recursos, realizar transacciones y recaudar impuestos en lugares donde no se cuenta con internet.
-Probablemente esto se seguiría realizando mediante el uso de efectivo y los reportes manuales de cada persona, y el gobierno tendría que buscar la manera de poco a poco hacer llegar el internet a todos los rincones del país (incluso a zonas donde no es rentable).
-- No especifica cómo se pagan impuestos en transacciones con personas de otros países y en otras monedas.
-- No provee un mecanismo para poner impuestos especiales para desincentivar el consumo de ciertos productos (tabaco, alcohol, alimentos y bebidas con alto contenido calórico, etc).
-
-
 Debe ser considerado como una idea para iniciar una discusión y buscar mejores solucioines; no como una propuesta completa, terminada e inamovible.
 
 
@@ -95,7 +87,6 @@ Un monto para los niños de preparatoria
 Todos los graduados de preparatoria reciben el mismo monto
 
 
-
 ## Impuestos adicionales
 
 ### Inmuebles
@@ -124,3 +115,10 @@ Aquellas personas que tengan dinero en el total de sus cuentas bancarias por arr
 Al igual que el impuesto a las herencias este monto deberá ser determinado de tal manera que sólo la gente muy rica caiga en este supuesto.
 El monto a pagar por este impuesto no podrá exceder un % del valor total de las cuentas, por ejemplo no podría ser más que el 2% (dividido entre 12) del valor total en un mes determinado.
 El valor total de las cuentas bancarias incluye la suma de los valores que estén invertidos en bonos, acciones y otros instrumentos de inversión, también lo que administren fideicomisos de los cuales esa persona tenga los derechos.
+
+## Consideraciones finales
+Hay muchos escenarios y casos que no funcionarían en la realidad actual, habría que ir evaluando y buscando soluciones para cada uno, algunos que se me ocurren:
+- Este sistema requiere que todos tengan acceso a un dispositivo con internet para realizar sus pagos. En una implementación real habría que buscar esquemas de transición para hacerle llegar los recursos, realizar transacciones y recaudar impuestos en lugares donde no se cuenta con internet.
+Probablemente esto se seguiría realizando mediante el uso de efectivo y los reportes manuales de cada persona, y el gobierno tendría que buscar la manera de poco a poco hacer llegar el internet a todos los rincones del país (incluso a zonas donde no es rentable).
+- No especifica cómo se pagan impuestos en transacciones con personas de otros países y en otras monedas.
+- No provee un mecanismo para poner impuestos especiales para desincentivar el consumo de ciertos productos (tabaco, alcohol, alimentos y bebidas con alto contenido calórico, etc).
