@@ -80,11 +80,11 @@ El monto a recibir mensualmente deberá ser suficiente para pagar una vivienda m
 Este Ingreso Básico Universal también se suma a los ingresos para el cálculo de ISR.
 
 Este pago será diferente e irá incrementando dependiendo del grado escolar de cada persona:
-Un monto para los niños antes de que entren a primaria
-Un monto para los niños de primaria
-Un monto para los niños de secundaria
-Un monto para los niños de preparatoria
-Todos los graduados de preparatoria reciben el mismo monto
+* Un monto para los niños antes de que entren a primaria
+* Un monto para los niños de primaria
+* Un monto para los niños de secundaria
+* Un monto para los niños de preparatoria
+* Todos los graduados de preparatoria reciben el mismo monto
 
 
 ## Impuestos adicionales
