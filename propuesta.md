@@ -41,9 +41,9 @@ Todos los precios anunciados al público deberán incluir ya el IVA correspondie
 
 Por ejemplo:
 * Supongamos una tasa de IVA del 10%.
-* Persona A le vende un producto por $100 pesos a Persona B.
-* La Persona B hace un pago por $100 pesos a la Persona A.
-* Persona A recibe $90 pesos, el banco retiene los $10 pesos y los paga al SAT.
+* Persona A quiere recibir 100 pesos por la venta de un producto a la Persona B.
+* La Persona B hace un pago por 110 pesos a la Persona A (100 del producto + 10 del IVA).
+* Persona A recibe 100 pesos, el banco retiene los 10 pesos y los paga al SAT.
 
 Esto evita que la gente tenga que calcular y pagar impuestos, ya que el banco los recauda automáticamente con cada transacción.
 
