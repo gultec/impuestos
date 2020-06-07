@@ -3,13 +3,13 @@
 ## Introducción
 
 Ésta es una propuesta de un esquema fiscal que en teoría busca:
-* cobrar más impuestos a quienes tienen mayores utilidades (en base a flujo de efectivo, no en base a contabilidad),
-* redistribuir esos impuestos de los que tienen mayores utilidades a los que tienen menores utilidades,
-* cobrar más impuestos a aquéllos que tienen más riqueza que el resto,
-* proporcionar un ingreso básico a toda la población,
-* desincentivar el uso de efectivo,
-* ser lo más sencillo posible para facilitar la determinación y pago de impuestos,
-* evitar situaciones que pudieran ser aprovechadas por individuos para hacer estrategias que disminuyan el pago de impuestos.
+* Cobrar más impuestos a quienes tienen mayores utilidades (en base a flujo de efectivo, no en base a contabilidad),
+* Redistribuir esos impuestos de los que tienen mayores utilidades a los que tienen menores utilidades,
+* Cobrar más impuestos a aquéllos que tienen más riqueza que el resto,
+* Proporcionar un ingreso básico a toda la población,
+* Desincentivar el uso de efectivo,
+* Ser lo más sencillo posible para facilitar la determinación y pago de impuestos,
+* Evitar situaciones que pudieran ser aprovechadas por individuos para hacer estrategias que disminuyan el pago de impuestos.
 
 Debe ser considerada como una idea para iniciar una discusión y buscar mejores soluciones; no como una propuesta completa, terminada e inamovible.
 
