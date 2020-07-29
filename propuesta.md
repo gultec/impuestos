@@ -59,22 +59,8 @@ Transacciones que no pagan IVA:
 * capital repagado por préstamos otorgados (los intereses sí pagan IVA).
 
 
-## Cálculo del ISR
-* Todos los cobros suman.
-* Todos los pagos restan.
-
-La suma de todos los cobros menos los pagos determina la base para ISR.
-Existe una tasa de ISR y todos pagan el resultado de multiplicar la base de ISR por esa tasa.
-
-Al final de cada mes, los bancos reportan todos los ingresos y egresos de las cuentas bancarias de cada NIU, la autoridad concentra estos reportes, calcula la base de ISR y manda un aviso a cada persona para indicarle el monto a pagar.
-
-Cada persona deberá realizar el pago de este monto, de lo contrario se bloquearán todas sus cuentas bancarias.
-
-
 ## Ingreso Básico Universal (IBU)
 Se determinará un monto, el cual será depositado de manera mensual a la cuenta del Banco Central de cada persona física mes a mes.
-
-El monto a distribuir podría determinarse en base a una estimación de lo que se va a recaudar de IVA, de tal manera que el IVA cobrado sea redistribuido entre toda la población y los ingresos por ISR sean destinados a cubrir los gastos del gobierno.
 
 El monto a recibir mensualmente deberá ser suficiente para pagar una vivienda modesta, alimentación y transporte; o sea para sobrevivir dignamente.
 
