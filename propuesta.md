@@ -64,8 +64,6 @@ Se determinará un monto, el cual será depositado de manera mensual a la cuenta
 
 El monto a recibir mensualmente deberá ser suficiente para pagar una vivienda modesta, alimentación y transporte; o sea para sobrevivir dignamente.
 
-Este Ingreso Básico Universal también se suma a los ingresos para el cálculo de ISR.
-
 Este pago será diferente e irá incrementándose dependiendo del grado escolar de cada persona:
 * un monto para los niños antes de que entren a primaria,
 * un monto para los niños de primaria,
